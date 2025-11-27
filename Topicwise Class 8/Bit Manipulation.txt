@@ -1,0 +1,28 @@
+Note Link - https://docs.google.com/document/d/1YfOePaT8lgJMSvOxrRHC6POVIsLphCA8YqlzXD275c8/edit?usp=sharing
+
+Problem 1 || ALIEN-OR - 
+https://www.codechef.com/problems/ALIENOR
+Solution - 
+https://www.codechef.com/viewsolution/1211560763
+
+
+Problem 2 || XOR Smaller -
+https://www.codechef.com/problems/XORSMALL
+Solution -
+https://www.codechef.com/viewsolution/1211565263
+
+Problem 3 || Longest AND Subarray -
+https://www.codechef.com/problems/ANDSUBAR
+Solution -
+https://www.codechef.com/viewsolution/1211570559
+
+Problem 4 || Beautiful XOR -
+https://codeforces.com/problemset/problem/2162/C
+Solution -
+https://codeforces.com/contest/2162/submission/350629261
+
+Problem 5 || AND Reconstruction -
+https://codeforces.com/problemset/problem/1991/B
+Solution -
+https://codeforces.com/contest/1991/submission/350626157
+
