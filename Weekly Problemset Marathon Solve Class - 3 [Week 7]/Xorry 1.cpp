@@ -1,0 +1,18 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+   ios::sync_with_stdio(false);
+   cin.tie(nullptr);
+
+   int t;
+   cin >> t;
+   while (t--) {
+      int x;
+      cin >> x;
+      int MSB = __lg(x), B = (1 << MSB), A = (x ^ B);
+      cout << A << " " << B << '\n';
+   }
+
+   return 0;
+}
